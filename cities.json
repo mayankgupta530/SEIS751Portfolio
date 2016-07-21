@@ -1,0 +1,28 @@
+{   "city":
+	[
+        {   "name": "Amsterdam",
+            "country": "Netherlands",
+            "rating": 9.5
+        },
+        {   "name": "Munich",
+            "country": "Germany",
+            "rating": 9
+        },
+        {   "name": "Prague",
+            "country": "Czech Republic",
+            "rating": 10
+        },
+        {   "name": "Minneapolis",
+            "country": "United States of America",
+            "rating": 10
+        },
+        {   "name": "Rome",
+            "country": "Italy",
+            "rating": 9
+        },
+        {   "name": "Athens",
+            "country": "Greece",
+            "rating": 8
+        }
+    ]
+}
